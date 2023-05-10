@@ -22,4 +22,13 @@ This shader will make your game look better.
 
 ![image](https://github.com/Jonnebo1/Hypixel-shader-mod/assets/133147896/3d496f3a-3ba9-4d6a-b438-97fac88a3c44)
 
+
+
+
+
+
+
+![image](https://github.com/Jonnebo1/Hypixel-shader-mod/assets/133147896/e87dfa44-3b76-4377-94de-1a11048360a2)
+
+
  
