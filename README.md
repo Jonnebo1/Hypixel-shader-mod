@@ -1,5 +1,11 @@
 # Hypixel-shader-mod
-This is an Minecraft shader. Thats made for hypixel, check the picture under description. You need to put the JAR file in your mods folder. Feel free to DM me if have any questions
+For any questions DM MASTERCARD#4460
 
 
-This mod will make your game look better ingame. It will make the water look more smooth, the soon will also look more "realistic" and your tools will also be modified to look better
+This shader will make your game look better. 
+* It will make the game go smoother via some shader settings.
+* It will make the sun, water, grass, animals, tools and blocks look much more smoother and cooler.
+* It will boost your FPS via the shader settings.
+* It may affect your CPU usage but not that visible. It will affect different because of what CPU and GPU you have.
+* It will not buy you free pizza(sadly)
+ 
